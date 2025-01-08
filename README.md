@@ -21,8 +21,17 @@ Contributions are welcome! Please feel free to submit issues or pull requests to
 
 **Tools Used**
 This project utilizes the following tools and libraries:
-Langchain: A framework for building applications powered by language models.
+
+Langchain : A framework for building applications powered by language models.
+
 Tavily: A tool for searching and retrieving real-time information from various sources.
+
 Google Generative AI: Provides advanced natural language processing capabilities.
+
 Python-dotenv: For managing environment variables in a .env file.
+
 PyGraphviz: For visualizing the state graph of the agent.
+
+![image](https://github.com/user-attachments/assets/9964ccf9-5aaa-4c51-b6ad-594af5e84b91) ![image](https://github.com/user-attachments/assets/f556c955-a62d-4821-9ee3-e8bafc2ea58d) ![image](https://github.com/user-attachments/assets/574d03fd-c661-4f12-a4ee-e1b1c06f3b9c)
+
+
